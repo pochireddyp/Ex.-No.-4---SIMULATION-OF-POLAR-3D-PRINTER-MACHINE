@@ -33,8 +33,8 @@
 ## Output:
 ![op 3](https://github.com/pochireddyp/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/150232043/103097d6-5178-4e90-8aff-c4e5aa6877b9)
 
-### Name:
-### Register Number:
+### Name:pochireddy.p
+### Register Number:23006090
 
 ## Result: 
 ### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
